@@ -1,0 +1,106 @@
+Traceback (most recent call last):2020-03-19 21:23:57
+  File "/home/user_szz/python3_code/warException.py", line 31, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:23:57
+Traceback (most recent call last):2020-03-19 21:23:57
+  File "/home/user_szz/python3_code/warException.py", line 31, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:23:57
+Traceback (most recent call last):2020-03-19 21:23:58
+  File "/home/user_szz/python3_code/warException.py", line 31, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:23:58
+Traceback (most recent call last):2020-03-19 21:23:58
+  File "/home/user_szz/python3_code/warException.py", line 31, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:23:58
+Traceback (most recent call last):2020-03-19 21:23:58
+  File "/home/user_szz/python3_code/warException.py", line 31, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:23:58
+Traceback (most recent call last):2020-03-19 21:24:41
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:41
+--------------------------------------------------------Traceback (most recent call last):2020-03-19 21:24:42
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:42
+--------------------------------------------------------Traceback (most recent call last):2020-03-19 21:24:42
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:42
+--------------------------------------------------------Traceback (most recent call last):2020-03-19 21:24:43
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:43
+--------------------------------------------------------Traceback (most recent call last):2020-03-19 21:24:43
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:43
+--------------------------------------------------------Traceback (most recent call last):2020-03-19 21:24:57
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:57
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:24:58
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:58
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:24:58
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:58
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:24:58
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:58
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:24:59
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:59
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:24:59
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:24:59
+--------------------------------------------------------
+Traceback (most recent call last):2020-03-19 21:25:23
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:23
+------------------------log_info--------------------------------
+Traceback (most recent call last):2020-03-19 21:25:23
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:23
+------------------------log_info--------------------------------
+Traceback (most recent call last):2020-03-19 21:25:24
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:24
+------------------------log_info--------------------------------
+Traceback (most recent call last):2020-03-19 21:25:24
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:24
+------------------------log_info--------------------------------
+Traceback (most recent call last):2020-03-19 21:25:24
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:24
+------------------------log_info--------------------------------
+Traceback (most recent call last):2020-03-19 21:25:24
+  File "/home/user_szz/python3_code/warException.py", line 32, in main    1/0
+ZeroDivisionError: division by zero2020-03-19 21:25:24
+------------------------log_info--------------------------------
+
+http://mirrors.nju.edu.cn/centos/8.1.1911/isos/x86_64/
+http://mirrors.tuna.tsinghua.edu.cn/ centos / 8.1.1911/isos/x86_64/
+http://mirrors.163.com/centos/8.1.1911/isos/x86_64/
+http://mirrors.neusoft.edu.cn/centos/8.1.1911/isos/ x86_64 /
+http://mirrors.huaweicloud.com/centos/8.1.1911/isos/x86_64/
+http://ftp.sjtu.edu.cn/centos/8.1.1911/isos/x86_64/
+http:// mirrors.zju.edu.cn/centos/8.1.1911/isos/x86_64/
+http://ap.stykers.moe/centos/8.1.1911/isos/x86_64/
+http://mirrors.aliyun.com/centos/8.1.1911 / isos / x86_64 /
+http://mirror01.idc.hinet.net/centos/8.1.1911/isos/x86_64/
+http://ftp.tc.edu.tw/Linux/CentOS/8.1.1911/isos/x86_64/
+http:// free.nchc.org.tw/centos/8.1.1911/isos/x86_64/
+http://ftp.twaren.net/Linux/CentOS/8.1.1911/isos/x86_64/
+http://centos.mirror.hostinginside.com / 8.1.1911 / isos / x86_64 /
+http://centos.cs.nctu.edu.tw/8.1.1911/isos/x86_64/
+http://ftp.isu.edu.tw/pub/Linux/CentOS/ 8.1.1911 / isos / x86_64 /
+http://ftp.yzu.edu.tw/Linux/CentOS/8.1.1911/isos/x86_64/
+http://ftp.ksu.edu.tw/pub/CentOS/8.1.1911 / isos / x86_64 /
+http://mirror.xtom.com.hk/centos/8.1.1911/isos/x86_64/
+http://centos.01link.hk/8.1.1911/isos/x86_64/
+http://mirror.worria.com/centos/8.1.1911/isos/x86_64/
+http://mirror-hk.koddos.net/centos/8.1.1911/isos/x86_64/
+http://ftp.cuhk.edu.hk/pub/Linux/centos/8.1.1911/isos/x86_64/
+http://mirrors.icidc.com/centos/8.1.1911/isos/x86_64/
+http://hk.mirrors.thegigabit.com/centos/8.1.1911/isos/x86_64/
+http://mirror.hkt.cc/ centos / 8.1.1911 / isos / x86_64 /
+http://mirror.hostlink.com.hk/centos/8.1.1911/isos/x86_64/
